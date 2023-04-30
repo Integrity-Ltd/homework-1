@@ -1,4 +1,4 @@
-const number1 = '5'; const number2 = 10;
+const number1 = 5; const number2 = 10;
 
 
 function sum(num1, num2) {
