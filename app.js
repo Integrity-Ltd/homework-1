@@ -12,5 +12,5 @@ try {
     const result = sum(number1, number2);
     console.log(`The sum is: ${result}`);
 } catch (err) {
-    console.log(err);
+    console.error(err);
 }
